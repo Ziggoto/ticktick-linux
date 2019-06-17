@@ -1,4 +1,4 @@
-# ticktick-linux
+# ticktick-linux (Unofficial app)
 The TickTick client for linux
 
 ## Manual Installation 
