@@ -1,9 +1,0 @@
-Package: ticktick-linux
-Version: 0.1
-Section: contrib
-Priority: optional
-Architecture: all
-Depends: bash
-Maintainer: dev <contact@circonfle.fr>
-Description: Ticktick for linux
-Homepage: www.circonflex.fr
