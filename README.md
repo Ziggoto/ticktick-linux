@@ -8,5 +8,6 @@ Just put the directory in /opt and click on ticktick-app-for-linux executable fi
 Create .desktop for create an alias and launch Ticktick
 
 ## Automatic installation .deb package for Debian or ubuntu
-Click in /packages/deb/ticktick.deb for install ticktick app
+- Go to directory /packages/deb/
+- And click to ticktick.deb for install ticktick app
 
