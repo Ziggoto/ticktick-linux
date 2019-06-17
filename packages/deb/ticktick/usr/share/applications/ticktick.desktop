@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Ticktick
+Comment=Ticktick for linux
+Exec=/opt/ticktick/ticktick-app-for-linux
+Icon=/opt/ticktick/icon.png
+Terminal=false
+StartupNotify=true
+Name[fr_FR]=ticktick
